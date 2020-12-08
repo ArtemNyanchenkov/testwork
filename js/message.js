@@ -37,6 +37,7 @@ const catalog = {
                     Voluptates laudantium voluptatem minus perspiciatis excepturi, aliquam nam nulla necessitatibus dolor! <br>
                     Voluptatum aliquid velit voluptates voluptatem sint eos nemo officia necessitatibus nobis.<br>
                     </p>
+                    <p class="text"> <a href="">Cссылка куда то там</a></p>
                     <button class="btn" >Прочитано</button>
                 </div>
             `;

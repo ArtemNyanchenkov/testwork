@@ -16,7 +16,7 @@
 
 .message {
     width: 450px;
-    height: 300px;
+    height: 310px;
     margin: 10px;
     border: 1px solid rgb(54, 62, 168);
 }
@@ -52,3 +52,4 @@
 .hide {
     display: none;
 }
+
